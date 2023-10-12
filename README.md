@@ -8,7 +8,7 @@ I began learning how to code & create web applications 3 years ago, starting fro
 
 * 🌍  I'm based in California!
 * ✉️  You can contact me at [peterdiosdadochavez@gmail.com](mailto:peterdiosdadochavez@gmail.com)
-* 🧠  I'm learning Java
+* 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on projects that help improve the world in some way :-)
 
 ### Skills
