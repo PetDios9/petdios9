@@ -4,7 +4,7 @@ Hi 👋 My name is Peter Diosdado
 Software Engineer
 -----------------
 
-I began learning how to code & create web applications 3 years ago, starting from 0 to landing a professional Software Engineering role and switching careers from retail banking. I am a full stack developer with a focus on front-end development using TypeScript, Javascript, and it's major frameworks/libraries such as React, Next.js, Vue.js, Angular.js, jQuery, and many more. For backend development I use Python, Flask, Express.js, and work with both SQL and NoSQL databases.
+I began learning how to code & deveop web applicationsin 2020, starting from 0 to landing a professional Software Engineering role and switching careers from retail banking. I am a full stack developer with a focus on front-end development using TypeScript, Javascript, and it's major frameworks/libraries such as React, Next.js, Vue.js, Angular.js, jQuery, and many more. For backend development I use Python, Flask, Express.js, and work with both SQL and NoSQL databases.
 
 * 🌍  I'm based in California!
 * ✉️  You can contact me at [peterdiosdadochavez@gmail.com](mailto:peterdiosdadochavez@gmail.com)
